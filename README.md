@@ -45,8 +45,6 @@ Prioritize tasks by moving the most important ones to the top.
 Mark tasks as completed by clicking the "Completed" button.
 Remove tasks by clicking the "Delete" button.
 
-License
-This project is licensed under the MIT License.
 
 Contact
 If you have any questions or suggestions, feel free to contact us.
